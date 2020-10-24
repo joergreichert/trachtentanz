@@ -17,7 +17,7 @@ Ein Beitrag zum [Coding da Vinci](https://codingdavinci.de/) [Niedersachen 2020]
  * [Augment 3D Android App](https://play.google.com/store/apps/details?id=com.ar.augment&hl=en)
 
 ## Umsetzung
- * [Flutter]() kombiniert mit [ARKit]() und [Unity]()
+ * [Flutter](https://flutter.dev/) kombiniert mit [ARCore](https://developers.google.com/ar) und [Unity](https://unity.com/de)
  * Beispiel-Vorlage: [Flutter-Unity-ARKit Demo](https://github.com/juicycleff/flutter-unity-arkit-demo )
  * Figuren-Modelle in Unity oder ähnlichem
 
