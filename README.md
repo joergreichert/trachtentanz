@@ -1,6 +1,8 @@
 # TrachtenTanz
 Historischen Uniformen und Trachten tanzen lassen
 
+![Strichfiguren mit Trachten an](https://raw.githubusercontent.com/joergreichert/trachtentanz/main/static/images/TrachtenTanz.jpg)
+
 Ein Beitrag zum [Coding da Vinci](https://codingdavinci.de/) [Niedersachen 2020](https://codingdavinci.de/de/events/niedersachsen-2020)
 
 ## Datensätze
